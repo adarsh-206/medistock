@@ -1,0 +1,7 @@
+your_namespace-pngs-0 /Users/adarsh/Desktop/MediStock/android/build/generated/res/pngs/release
+your_namespace-resValues-1 /Users/adarsh/Desktop/MediStock/android/build/generated/res/resValues/release
+your_namespace-packageReleaseResources-2 /Users/adarsh/Desktop/MediStock/android/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+your_namespace-packageReleaseResources-3 /Users/adarsh/Desktop/MediStock/android/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+your_namespace-merged_res-4 /Users/adarsh/Desktop/MediStock/android/build/intermediates/merged_res/release
+your_namespace-main-5 /Users/adarsh/Desktop/MediStock/android/src/main/res
+your_namespace-release-6 /Users/adarsh/Desktop/MediStock/android/src/release/res

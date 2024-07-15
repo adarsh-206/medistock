@@ -1,0 +1,67 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		INJECTED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:3:22-64
+application
+ADDED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:5:5-26:19
+INJECTED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:5:5-26:19
+	android:extractNativeLibs
+		INJECTED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:7:9-42
+	android:roundIcon
+		ADDED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:10:9-36
+	android:theme
+		ADDED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:11:9-49
+	android:name
+		ADDED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:6:9-37
+activity#your_namespace.MainActivity
+ADDED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:13:9-24:20
+	android:label
+		ADDED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:15:13-46
+	android:launchMode
+		ADDED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:17:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:18:13-55
+	android:exported
+		ADDED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:19:13-36
+	android:configChanges
+		ADDED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:16:13-122
+	android:name
+		ADDED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/adarsh/Desktop/MediStock/android/app/src/main/AndroidManifest.xml

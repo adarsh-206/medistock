@@ -1,0 +1,10 @@
+
+base"<
+:
+8https://oss.sonatype.org/content/repositories/snapshots/")
+'
+%https://repo.maven.apache.org/maven2/",
+*
+(https://dl.google.com/dl/android/maven2/"
+
+https://www.jitpack.io
